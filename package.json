@@ -1,6 +1,6 @@
 {
   "name": "egg-sequelize-module",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "egg-sequlize modification for eggular",
   "eggPlugin": {
     "name": "sequelizeModule"
@@ -37,6 +37,7 @@
     "app.js",
     "agent.js",
     "config",
+    "lib",
     "app"
   ],
   "ci": {
